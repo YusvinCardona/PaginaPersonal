@@ -1,0 +1,87 @@
+.navbar1 {
+  background-color: #1c7eb8 !important;
+}
+
+.navbar-brand {
+  color: white;
+}
+
+.navbar-nav {
+  align-items: center;
+}
+
+.parte1 {
+  /* background-image: url(./assets/images/fondo.jpg); */
+  max-width: 100%;
+  height: auto;
+  text-align: center;
+}
+
+.parte1 h1 {
+  font-weight: bold;
+}
+
+
+.imagen1 {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+  border-radius: 50px;
+}
+
+.texto {
+  padding: 20%;
+}
+
+.parte3 {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.imageCar1 {
+  max-height: 700px;
+}
+
+.cardP4 {
+  width: 18rem;
+  margin: 15px;
+}
+
+.section4 {
+  padding: 10%;
+}
+
+.imageCard1 {
+  margin-top: 10px;
+}
+
+.Parte4 {
+  display: grid;
+  grid-template-columns: repeat(4, 25%);
+  gap: 1rem;
+  padding: 380px;
+  height: 200px;
+  background-color: #FFC0CB;
+
+}
+
+.Parte5 {
+  padding: 380px;
+  height: 200px;
+  background-color: #A8EADF;
+}
+
+.imagep5 {
+  width: 65%;
+  margin-bottom: 10%;
+}
+
+.textp5 {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.Parte6 {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
